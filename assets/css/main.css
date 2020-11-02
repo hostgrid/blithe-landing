@@ -19446,7 +19446,7 @@ a.close.disabled {
   transition: all 0.3s ease-in-out 0s;
   color: #2E1957;
   font-weight: bold;
-  font-family: ;
+  /* font-family: ; */
   opacity: 0.8;
 }
 
@@ -23090,7 +23090,7 @@ footer a {
     padding: 10px;
 }
 .home-baner-image{
-    margin-top: 50px !important;
+    margin-top: 85px !important;
 }
 .login_btn i{
     font-size: 16px;
@@ -29194,10 +29194,16 @@ button.bg-dark:focus {
 
 }
 
+.text-p-h {
+  color: #2E1957 !important;
+  font-family: 'Open Sans', sans-serif !important;
+
+}
+
 .text-h2{
     font-family: 'Baloo 2', cursive !important;
-    font-weight: bold;
-    font-size: 3.5rem;
+    font-weight: 800 ;
+    font-size: 4.5rem;
     color: #2E1957;
 }
 
