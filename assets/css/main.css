@@ -19856,7 +19856,7 @@ footer a {
   display: block;
   width: 100%;
   border: none;
-  border-radius: 30px;
+  border-radius: 10px;
   font-size: 14px;
   padding-top: 0;
   padding-right: 0;
@@ -19872,12 +19872,12 @@ footer a {
   bottom: 4px;
   height: auto;
   border: none;
-  border-radius: 30px;
+  border-radius: 10px;
   background-color: #9629e6;
   display: inline-block;
   color: #fff;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 /* line 100, src/assets/scss/components/_components.footer.scss */

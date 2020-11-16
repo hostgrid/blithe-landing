@@ -1,40 +1,43 @@
 
-DWeb:BoldAndItalicTagsChecké"Replace this <i> tag by <em>.(¾ş¿
-IWeb:BoldAndItalicTagsCheck…"Replace this <i> tag by <em>.(¬Íƒ”ıÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck„"Replace this <i> tag by <em>.(¤™—×üÿÿÿÿ
-DWeb:BoldAndItalicTagsCheckŸ"Replace this <i> tag by <em>.(¬€ÿ¨
-IWeb:BoldAndItalicTagsCheckÎ"Replace this <i> tag by <em>.(Ì“îÖüÿÿÿÿ
-DWeb:BoldAndItalicTagsCheckË"Replace this <i> tag by <em>.(îöîó
-s%Web:ItemTagNotWithinContainerTagCheck¬	"<Surround this <li> item tag by a <ul> or <ol> container one.(É‹¥ãşÿÿÿÿ
-DWeb:BoldAndItalicTagsCheck°"Replace this <i> tag by <em>.(îöîó
-IWeb:BoldAndItalicTagsCheckì"Replace this <i> tag by <em>.(¤™—×üÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck–"Replace this <i> tag by <em>.(Ì“îÖüÿÿÿÿ
-CWeb:BoldAndItalicTagsCheckÈ"Replace this <i> tag by <em>.(ş¿±K
-IWeb:BoldAndItalicTagsCheckœ	"Replace this <i> tag by <em>.(êô¨úÿÿÿÿ
-s%Web:ItemTagNotWithinContainerTagCheck¯	"<Surround this <li> item tag by a <ul> or <ol> container one.(æìäşÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck”"Replace this <i> tag by <em>.(öÓ©øÿÿÿÿ
-DWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(Ù¦É”
-DWeb:BoldAndItalicTagsCheck¦"Replace this <i> tag by <em>.(Ù¦É”
-DWeb:BoldAndItalicTagsCheck„"Replace this <i> tag by <em>.(¸»¼à
-DWeb:BoldAndItalicTagsCheckÑ"Replace this <i> tag by <em>.(¾ş¿
-IWeb:BoldAndItalicTagsCheckæ"Replace this <i> tag by <em>.(Ì“îÖüÿÿÿÿ
-s%Web:ItemTagNotWithinContainerTagCheck­	"<Surround this <li> item tag by a <ul> or <ol> container one.(Ç–†ÿÿÿÿÿ
-s%Web:ItemTagNotWithinContainerTagCheck®	"<Surround this <li> item tag by a <ul> or <ol> container one.(İµ—Äÿÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck­	"Replace this <i> tag by <em>.(Ç–†ÿÿÿÿÿ
-DWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(¾ş¿
-DWeb:BoldAndItalicTagsCheck‡"Replace this <i> tag by <em>.(¬€ÿ¨
-DWeb:BoldAndItalicTagsCheck›"Replace this <i> tag by <em>.(Ù¦É”
-DWeb:BoldAndItalicTagsCheckï"Replace this <i> tag by <em>.(¬€ÿ¨
-IWeb:BoldAndItalicTagsCheck¯	"Replace this <i> tag by <em>.(æìäşÿÿÿÿ
-IWeb:BoldAndItalicTagsCheckÔ"Replace this <i> tag by <em>.(¤™—×üÿÿÿÿ
-DWeb:BoldAndItalicTagsCheck×"Replace this <i> tag by <em>.(¬€ÿ¨
-DWeb:BoldAndItalicTagsCheck™"Replace this <i> tag by <em>.(¾ş¿
-IWeb:BoldAndItalicTagsCheck¬	"Replace this <i> tag by <em>.(É‹¥ãşÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck¥"Replace this <i> tag by <em>.(Ä†«¡øÿÿÿÿ
-CWeb:BoldAndItalicTagsCheck’"Replace this <i> tag by <em>.(ş¿±K
-IWeb:BoldAndItalicTagsCheck¶"Replace this <i> tag by <em>.(Ç³êçşÿÿÿÿ
-CWeb:BoldAndItalicTagsCheck­"Replace this <i> tag by <em>.(ş¿±K
-IWeb:BoldAndItalicTagsCheck®	"Replace this <i> tag by <em>.(İµ—Äÿÿÿÿÿ
-IWeb:BoldAndItalicTagsCheckœ"Replace this <i> tag by <em>.(¤™—×üÿÿÿÿ
-DWeb:BoldAndItalicTagsCheck•"Replace this <i> tag by <em>.(îöîó
-IWeb:BoldAndItalicTagsCheckş"Replace this <i> tag by <em>.(Ì“îÖüÿÿÿÿ
+KWeb:BoldAndItalicTagsCheckç"Replace this <i> tag by <em>.(È¤±¾8œ¹è§Ë.
+PWeb:AvoidCommentedOutCodeCheckN"Remove this commented out code.(ßÍêö8œ¹è§Ë.
+KWeb:BoldAndItalicTagsCheck“"Replace this <i> tag by <em>.(ëƒ“š8œ¹è§Ë.
+QWeb:AvoidCommentedOutCodeCheckå"Remove this commented out code.(Úå¡8œ¹è§Ë.
+QWeb:AvoidCommentedOutCodeCheck„"Remove this commented out code.(À‰ÜÁ8•ËÁ©Ü.
+KWeb:BoldAndItalicTagsCheckÉ"Replace this <i> tag by <em>.(ïÁ¼º8œ¹è§Ë.
+PWeb:AvoidCommentedOutCodeCheckL"Remove this commented out code.(²—÷Ñ8œ¹è§Ë.
+PWeb:BoldAndItalicTagsCheckè"Replace this <i> tag by <em>.(É‹¥ãşÿÿÿÿ8œ¹è§Ë.
+z%Web:ItemTagNotWithinContainerTagChecké"<Surround this <li> item tag by a <ul> or <ol> container one.(Ç–†ÿÿÿÿÿ8œ¹è§Ë.
+UWeb:AvoidCommentedOutCodeCheckO"Remove this commented out code.(ğ…²¾üÿÿÿÿ8œ¹è§Ë.
+KWeb:BoldAndItalicTagsCheck‚"Replace this <i> tag by <em>.(ëƒ“š8œ¹è§Ë.
+KWeb:BoldAndItalicTagsCheckµ"Replace this <i> tag by <em>.(†ë“‰8œ¹è§Ë.
+VWeb:AvoidCommentedOutCodeCheckƒ"Remove this commented out code.(´•Ù·üÿÿÿÿ8œ¹è§Ë.
+QWeb:AvoidCommentedOutCodeCheckÿ"Remove this commented out code.(Úå¡8œ¹è§Ë.
+VWeb:AvoidCommentedOutCodeCheck¡"Remove this commented out code.(şòİŠÿÿÿÿÿ8•ËÁ©Ü.
+PWeb:AvoidCommentedOutCodeCheck6"Remove this commented out code.(äµ§8œ¹è§Ë.
+PWeb:AvoidCommentedOutCodeCheckP"Remove this commented out code.(À‰ÜÁ8•ËÁ©Ü.
+QWeb:AvoidCommentedOutCodeCheck‚"Remove this commented out code.(Š¿Š¦8œ¹è§Ë.
+KWeb:BoldAndItalicTagsCheck¤"Replace this <i> tag by <em>.(ëƒ“š8œ¹è§Ë.
+PWeb:AvoidCommentedOutCodeCheck²"Remove this commented out code.(·Â¥8•ËÁ©Ü.
+QWeb:AvoidCommentedOutCodeCheckŸ"Remove this commented out code.(Úå¡8œ¹è§Ë.
+PWeb:BoldAndItalicTagsChecké"Replace this <i> tag by <em>.(Ç–†ÿÿÿÿÿ8œ¹è§Ë.
+PWeb:BoldAndItalicTagsCheckê"Replace this <i> tag by <em>.(çÛÕùúÿÿÿÿ8œ¹è§Ë.
+UWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(øºÊ°üÿÿÿÿ8²¶ø§Ë.
+QWeb:AvoidCommentedOutCodeCheckò"Remove this commented out code.(Úå¡8œ¹è§Ë.
+QWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(Ÿ½Éñ8œ¹è§Ë.
+VWeb:AvoidCommentedOutCodeCheck’"Remove this commented out code.(·Ìãùÿÿÿÿ8•ËÁ©Ü.
+u%Web:ItemTagNotWithinContainerTagCheckç"<Surround this <li> item tag by a <ul> or <ol> container one.(È¤±¾8œ¹è§Ë.
+z%Web:ItemTagNotWithinContainerTagCheckè"<Surround this <li> item tag by a <ul> or <ol> container one.(É‹¥ãşÿÿÿÿ8œ¹è§Ë.
+UWeb:AvoidCommentedOutCodeCheckM"Remove this commented out code.(á‰¸ùÿÿÿÿ8œ¹è§Ë.
+UWeb:AvoidCommentedOutCodeCheckK"Remove this commented out code.(ÄÑÚ˜úÿÿÿÿ8œ¹è§Ë.
+JWeb:BoldAndItalicTagsCheck?"Replace this <i> tag by <em>.(Êî°8œ¹è§Ë.
+PWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ÈÆ‰Ş8•ËÁ©Ü.
+QWeb:AvoidCommentedOutCodeCheck’"Remove this commented out code.(Úå¡8œ¹è§Ë.
+QWeb:AvoidCommentedOutCodeCheck…"Remove this commented out code.(‹ü­½8•ËÁ©Ü.
+UWeb:AvoidCommentedOutCodeCheck9"Remove this commented out code.(¯†‘ıÿÿÿÿ8œ¹è§Ë.
+JWeb:BoldAndItalicTagsCheckÊ"Replace this <i> tag by <em>.(æç‚/8œ¹è§Ë.
+z%Web:ItemTagNotWithinContainerTagCheckê"<Surround this <li> item tag by a <ul> or <ol> container one.(çÛÕùúÿÿÿÿ8œ¹è§Ë.
+VWeb:AvoidCommentedOutCodeCheckº"Remove this commented out code.(·Ìãùÿÿÿÿ8œ¹è§Ë.
+QWeb:AvoidCommentedOutCodeCheck¬"Remove this commented out code.(Úå¡8œ¹è§Ë.
+VWeb:AvoidCommentedOutCodeCheck¨"Remove this commented out code.(Ñ¿Àüÿÿÿÿ8•ËÁ©Ü.
+PWeb:AvoidCommentedOutCodeCheckQ"Remove this commented out code.(‹ü­½8•ËÁ©Ü.
